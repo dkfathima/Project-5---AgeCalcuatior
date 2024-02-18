@@ -4,9 +4,6 @@ Class: CSIT 501 Java
 Project: AgeCalc.java
 Description: In this program it will calculate the age based on the date that was selected and then it will display in the color that was chosen.
 */
-
-
-
 package sample;
 import javafx.application.Application;
 import javafx.event.ActionEvent;
